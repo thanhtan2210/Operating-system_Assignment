@@ -1,0 +1,8 @@
+make.exe -f c:\Users\BonBon\OneDrive\Máy tính\git\Operating-system_Assignment\make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/cygdrive/c/Users/BonBon/OneDrive/Máy tính/git/Operating-system_Assignment'
+make: Leaving directory '/cygdrive/c/Users/BonBon/OneDrive/Máy tính/git/Operating-system_Assignment'
+ 
+make: c:\Users\BonBon\OneDrive\Máy tính\git\Operating-system_Assignment\make: No such file or directory
+make: *** No rule to make target 'c:\Users\BonBon\OneDrive\Máy tính\git\Operating-system_Assignment\make'.
+make: Failed to remake makefile 'c:\Users\BonBon\OneDrive\Máy tính\git\Operating-system_Assignment\make'.
+
